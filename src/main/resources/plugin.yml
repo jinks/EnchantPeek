@@ -1,6 +1,6 @@
 name: EnchantPeek
 main: net.mended_drum.EnchantPeek.EnchantPeek
-version: 0.8.0
+version: 0.9.9
 description: Check which enchantments you will get.
 author: jinks
 permissions:
