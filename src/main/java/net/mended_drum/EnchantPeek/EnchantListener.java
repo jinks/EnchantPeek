@@ -150,7 +150,10 @@ public class EnchantListener implements Listener {
             put("DURABILITY",               "Unbreaking");
             put("LOOT_BONUS_BLOCKS",        "Fortune");
             put("SILK_TOUCH",               "Silk Touch");
-            // TEMP - Fishing Rod
+            // Fishing Rod
+            put("LUCK",                     "Luck of the Sea");
+            put("LURE",                     "Lure");
+            // TEMP - Fishing Rod DEV
             put("UNKNOWN_ENCHANT_61",       "Luck of the Sea");
             put("UNKNOWN_ENCHANT_62",       "Lure");
         }};

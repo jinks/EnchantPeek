@@ -4,7 +4,7 @@
 
     <groupId>net.mended-drum</groupId>
     <artifactId>EnchantPeek</artifactId>
-    <version>0.9.9</version>
+    <version>0.9.10</version>
     <packaging>jar</packaging>
 
     <name>EnchantPeek</name>
